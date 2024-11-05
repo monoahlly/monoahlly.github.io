@@ -16,3 +16,9 @@ The player is presented with different items with their prices and given the opt
 ![ASCII art of an open journal followed by four different options for interacting with it](https://i.imgur.com/iPL1Ped.png)
 
 The user can choose to type out journal entries which will be saved. They can then read the entries or clear them. They can also keep adding more entries.
+
+# Micro RPG
+
+![An enemy encounter with a fire ant named Fire Auntie](https://i.imgur.com/jBqbBwW.png)
+
+The player is presented with an assortment of different bug enemies that each have a unique amount of HP, abilities, and attacks.
