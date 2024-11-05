@@ -9,6 +9,8 @@ In “Stomping Ground,” you control a player character who needs to safely get
 
 Here, the player is given the choice to take the axe they find in a tree along the way. It is needed to progress past the river, but if the player continues holding onto it afterwards, they will get a game over when they encounter the owner of it.
 
+To make it back home, the player must take the axe, use it at the river, discard it, and give the strange man the name that they entered at the beginning.
+
 # Item Shop
 
 ![Screenshot of Item Shop game with options to buy a sword](https://i.imgur.com/4q5y5Oj.png)
