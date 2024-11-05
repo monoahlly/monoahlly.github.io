@@ -5,6 +5,10 @@
 
 In “Stomping Ground,” you control a player character who needs to safely get home to their house in the woods. Along their path, they will come across an enticing item, a flooded river, and a strange man. The player must safely navigate their way through obstacles by choosing the correct dialogue and using items at the appropriate places. They will either make it home or get lost forever.
 
+![An ASCII tree followed by text describing an axe embedded in and the option for the player to take the axe](https://i.imgur.com/0XRxQk0.png)
+
+Here, the player is given the choice to take the axe they find in a tree along the way. It is needed to progress past the river, but if the player continues holding onto it afterwards, they will get a game over when they encounter the owner of it.
+
 # Item Shop
 
 ![Screenshot of Item Shop game with options to buy a sword](https://i.imgur.com/4q5y5Oj.png)
@@ -27,4 +31,4 @@ The player is presented with an assortment of different bug enemies that each ha
 
 ![A screenshot of ASCII dice and a prompt for the player to guess high or low](https://i.imgur.com/aLy8nBg.png)
 
-The player is given the rules for the game before being asked to guess if the die will roll high or low. The die will roll to a random number between 1 and 6, and the player will score one point if they guessed correctly.
+The player is given the rules for the game before being asked to guess if the die will roll high or low. The die will roll to a random number between 1 and 6, and the player will score one point if they guessed correctly. They are then given the option to continue playing, wherein their score will keep being added to, or to quit.
