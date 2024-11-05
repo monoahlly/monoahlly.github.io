@@ -22,3 +22,9 @@ The user can choose to type out journal entries which will be saved. They can th
 ![An enemy encounter with a fire ant named Fire Auntie](https://i.imgur.com/jBqbBwW.png)
 
 The player is presented with an assortment of different bug enemies that each have a unique amount of HP, abilities, and attacks.
+
+# Dice Game
+
+![A screenshot of ASCII dice and a prompt for the player to guess high or low](https://i.imgur.com/aLy8nBg.png)
+
+The player is given the rules for the game before being asked to guess if the die will roll high or low. The die will roll to a random number between 1 and 6, and the player will score one point if they guessed correctly.
