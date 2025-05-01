@@ -1,6 +1,6 @@
 # Craft System
 
-![A welcome screen stating the player's amount of money and asking if they want to change their name.](https://i.imgur.com/in6nVdj.png)
+![A welcome screen stating the player's amount of money and asking if they want to change their name.](https://i.imgur.com/yxEHuTi.png)
 ![A list of ingredients](https://i.imgur.com/6I3s12U.png)
 
 In my crafting system, the user has a set amount of money that they can use in order to buy ingredients to craft drinks. They can check their inventory which also has teh ingredients needed to craft one recipe. 
