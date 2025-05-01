@@ -22,7 +22,7 @@ Coming soon
 # Ordle
 
 ![Ordle title screen with instructions and a start button](https://i.imgur.com/69RMwzG.png)
-![Player's color coded guesses with a text box for their input](https://i.imgur.com/69RMwzG.png)
+![Player's color coded guesses with a text box for their input](https://i.imgur.com/SbMZE8Q.png)
 
 In Ordle, the player is given instructions with a start button that immediately gets them into the game. Just like in Wordle, each letter of the player's guesses shows up color-coded to indicate how close they are to the correct word.
 
