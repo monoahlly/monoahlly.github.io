@@ -3,7 +3,7 @@
 ![A welcome screen stating the player's amount of money and asking if they want to change their name.](https://i.imgur.com/yxEHuTi.png)
 ![A list of ingredients](https://i.imgur.com/6I3s12U.png)
 
-In my crafting system, the user has a set amount of money that they can use in order to buy ingredients to craft drinks. They can check their inventory which also has the ingredients needed to craft one recipe. 
+In my crafting system, the user has a set amount of money that they can use in order to buy ingredients to craft drinks. They can check their inventory which also has the ingredients needed to craft one recipe. Below is the UML I created at the start of the project.
 
 ![UML of the project](https://i.imgur.com/cozLrpu.png)
 
@@ -13,7 +13,7 @@ In my crafting system, the user has a set amount of money that they can use in o
 ![The Same or Different game gives you a card and asks if you think the next card will have the same or a different suit](https://i.imgur.com/woxL99x.png)
 ![The Highest Match game instructs you on the rules, starts you with three cards, and gives the option to discard one](https://i.imgur.com/Kc7N4yN.png)
 
-In my Card Game project, the player is given three different card games to play. The options are guessing the next suit, guessing the next number, and trying to get the highest number in the same suit against a dealer. In the first two games, the player can accrue points, and in the last one, the final sums are calculated for you.
+In my Card Game project, the player is given three different card games to play. The options are guessing the next suit, guessing the next number, and trying to get the highest number in the same suit against a dealer. In the first two games, the player can accrue points, and in the last one, the final sums are calculated and compared for you. All three games give you the option to return to the main menu so you can choose a different game to play.
 
 # Simulation
 
@@ -24,13 +24,13 @@ Coming soon
 ![Ordle title screen with instructions and a start button](https://i.imgur.com/69RMwzG.png)
 ![Player's color coded guesses with a text box for their input](https://i.imgur.com/SbMZE8Q.png)
 
-In Ordle, the player is given instructions with a start button that immediately gets them into the game. Just like in Wordle, each letter of the player's guesses shows up color-coded to indicate how close they are to the correct word.
+In Ordle, the player is given instructions with a start button that immediately gets them into the game. Just like in Wordle, each letter of the player's guesses shows up color-coded to indicate how close they are to the correct word. If the player tries to enter a word not in the project's dictionary, they will get another chance to guess without a round being wasted.
 
 # Event Handler (Stocks)
 
 ![Several stocks' initial value is given. Below, the prices are updated](https://i.imgur.com/sP2LNx9.png)
 
-This event handler gives several stocks' intial prices. These then update, telling you the previous and new prices.
+This event handler gives several stocks' intial prices. These then update, telling you the previous and new prices. This simulation can be run again and again.
 
 # Stomping Ground
 ## Midterm Adventure Game
