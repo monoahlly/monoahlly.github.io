@@ -1,7 +1,7 @@
 # Craft System
 
-!(https://imgur.com/a/2IwI6Pg)
-!(https://imgur.com/6I3s12U)
+!(https://i.imgur.com/in6nVdj.png)
+!(https://i.imgur.com/6I3s12U.png)
 
 In my crafting system, the user has a set amount of money that they can use in order to buy ingredients to craft drinks. They can check their inventory which also has teh ingredients needed to craft one recipe. 
 
