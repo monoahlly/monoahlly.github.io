@@ -9,8 +9,8 @@ In my crafting system, the user has a set amount of money that they can use in o
 
 # World of Melvin
 
-![A welcome screen featuring a horse.](https://imgur.com/acYqRR0)
-![Text describing your surroundings with buttons underneath to pick up an item, go somewhere else, or view your inventory.](https://imgur.com/VX87tOc)
+![A welcome screen featuring a horse.](https://i.imgur.com/acYqRR0.png)
+![Text describing your surroundings with buttons underneath to pick up an item, go somewhere else, or view your inventory.](https://imgur.com/VX87tOc.png)
 
 In the World of Melvin, the player must travel through different locations in search of the Ritual Stone so they can return to their world. The items they come across at these locations are randomized.
 
