@@ -7,6 +7,13 @@ In my crafting system, the user has a set amount of money that they can use in o
 
 ![UML of the project](https://i.imgur.com/cozLrpu.png)
 
+# World of Melvin
+
+![A welcome screen featuring a horse.](https://imgur.com/acYqRR0)
+![Text describing your surroundings with buttons underneath to pick up an item, go somewhere else, or view your inventory.](https://imgur.com/VX87tOc)
+
+In the World of Melvin, the player must travel through different locations in search of the Ritual Stone so they can return to their world. The items they come across at these locations are randomized.
+
 # Card Game
 
 ![ASCII art of playing cards with welcome text below and the option to play three different card games](https://i.imgur.com/PQZf2Az.png)
